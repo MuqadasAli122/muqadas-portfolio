@@ -1,6 +1,5 @@
 # Muqadas Ali - SEO Specialist Portfolio
 
-This is a personal portfolio website built using HTML and CSS.  
 It showcases my experience as an SEO specialist with over 3 years of work, collaborating with UK and Thailand-based clients, and offering high-authority guest posting services.
 
 🔗 Connect with me:  
